@@ -57,4 +57,4 @@ function onImageContainerClick(e) {
   instance.show();
 }
 
-// console.log(galleryItems);
+

@@ -22,4 +22,4 @@ const lightbox = new SimpleLightbox(".gallery a", {
   animationSpeed: 250,
 });
 
-// console.log(galleryItems);
+
